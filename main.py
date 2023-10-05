@@ -123,11 +123,14 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+import numpy as np
+import tensorflow as tf
 import tensorflow_hub as hub
 from sklearn.metrics.pairwise import cosine_similarity
 import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
+import string
 nltk.download('stopwords')
 import pandas as pd
 
