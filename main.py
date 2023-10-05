@@ -233,3 +233,10 @@ def botResponse(prompt):
 @app.get("/chat")
 async def chat(query: str):
     return botResponse(query)
+
+
+if __name__ == "__main__":
+    import os
+    import uvicorn
+
+    uvicorn.run(app)
