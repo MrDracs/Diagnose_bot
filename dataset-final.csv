@@ -1,0 +1,399 @@
+Text Prompt,Mood Issue,Sleep Issue,Anxiety Issue,Depression,Eating Disorder,Panic Disorder,Obsessive-Compulsive,Hallucinations,Self-Harm,Bipolar Disorder,PTSD,Suicidal Thoughts,Explanation
+I've been feeling anxious all the time.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests constant anxiety.
+I can't fall asleep and have racing thoughts.,0,1,0,0,0,0,0,0,0,0,0,0,Indicates insomnia and racing thoughts.
+I'm worried about my future constantly.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests persistent anxiety about the future.
+I feel empty and can't find joy in anything.,1,0,0,1,0,0,0,0,0,0,0,0,Signs of emotional emptiness and depression.
+I can't focus on anything for more than a minute.,0,1,0,0,0,0,0,0,0,0,0,0,Indicates attention difficulties and restlessness.
+I'm having panic attacks almost every day.,0,0,1,0,0,1,0,0,0,0,0,0,Suggests frequent panic attacks and anxiety.
+I hear voices in my head that scare me.,0,0,0,0,0,0,1,0,0,0,0,0,Indicates auditory hallucinations.
+I'm always irritable and snap at people.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests irritability and potential anxiety.
+I can't stop checking things and counting.,0,0,0,0,0,0,1,0,0,0,0,0,Indicates obsessive-compulsive tendencies.
+I feel like I'm watching my life from afar.,0,0,0,0,0,0,0,0,0,0,0,0,Signs of depersonalization or disconnection.
+I eat large amounts of food and then feel guilty.,0,1,0,0,1,0,0,0,0,0,0,0,Indicates binge eating and guilt.
+I'm afraid to leave my home because of panic.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests agoraphobia and fear of leaving home.
+I'm constantly doubting myself and my abilities.,0,0,0,0,0,0,0,0,0,0,0,0,Signs of low self-esteem and self-doubt.
+I've been cutting myself to cope.,0,0,0,0,0,0,0,0,1,0,0,0,Indicates self-harm as a coping mechanism.
+My mood swings from extreme highs to lows.,1,0,0,0,0,0,0,0,0,1,0,0,Signs of extreme mood swings
+I can't even get out of bed or shower.,1,1,0,1,0,0,0,0,0,0,0,0,Indicates severe depression and difficulty with daily tasks.
+I get angry and lose control over small things.,0,0,0,0,0,0,0,0,0,0,0,0,Suggests difficulty with anger management.
+I'm always tired and have no energy to do anything.,0,1,0,1,0,0,0,0,0,0,0,0,Signs of fatigue
+I can't go out without fearing something bad will happen.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates anxiety related to safety concerns.
+I feel worthless and like a burden to others.,1,0,0,1,0,0,0,0,0,0,0,0,Signs of low self-worth and potential depression.
+I've been using drugs to numb my feelings.,1,0,1,1,0,0,0,0,0,0,1,0,Indicates substance abuse as a coping mechanism.
+I can't get over the traumatic event I experienced.,0,0,1,0,0,0,0,0,0,0,1,0,Suggests symptoms of post-traumatic stress disorder (PTSD).
+I'm constantly suspicious of others' motives.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests paranoid tendencies and distrust.
+I have thoughts of ending my life.,0,0,0,0,0,0,0,0,0,0,0,1,Indicates suicidal thoughts and potential risk.
+I can't stop thinking negatively about myself.,0,0,0,0,0,0,0,0,0,0,0,0,Signs of negative self-talk and self-criticism.
+I'm confused about my gender identity.,0,0,0,0,0,0,0,0,0,0,0,0,Signs of gender identity confusion.
+I'm overwhelmed by my responsibilities.,1,0,1,0,0,0,0,0,0,0,0,0,Indicates feeling overwhelmed by life's demands.
+I forget things and have trouble with memory.,0,1,0,0,0,0,0,0,0,0,0,0,Suggests memory issues and potential cognitive difficulties.
+My relationships are falling apart.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates difficulties in interpersonal relationships.
+I'm obsessed with my appearance and flaws.,0,0,1,0,0,0,0,0,0,0,0,0,Signs of body dysmorphic concerns.
+I have difficulty trusting others.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates trust issues and difficulty in building trust with others.
+I'm experiencing religious delusions.,0,0,0,0,0,0,0,0,0,0,0,0,Signs of religious delusions or irrational beliefs.
+I'm consumed by guilt and regret.,1,0,0,1,0,0,0,0,0,0,0,0,Indicates feelings of guilt and regret.
+I'm always on edge and jittery.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests anxiety-related nervousness and restlessness.
+I have intense phobias of specific things.,0,0,1,0,0,0,0,0,0,0,0,0,Signs of specific phobias.
+I feel like I'm being watched or followed.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates paranoid thoughts and surveillance concerns.
+I've been engaging in risky behaviors.,1,0,1,0,0,0,0,0,0,0,0,0,Suggests risky behaviors as a form of self-destructive coping.
+I have vivid flashbacks of the trauma.,0,0,1,0,0,0,0,0,0,0,1,0,Indicates traumatic flashbacks and potential PTSD symptoms.
+I feel like I'm never good enough for anyone.,0,0,0,0,0,0,0,0,0,0,0,0,Signs of low self-esteem and perfectionism.
+I'm struggling with substance addiction.,1,0,1,0,0,0,0,0,0,0,0,0,Indicates substance addiction as an issue.
+I'm obsessed with cleanliness and order.,0,0,0,0,0,0,1,0,0,0,0,0,Signs of obsessive-compulsive disorder (OCD).
+I have intrusive thoughts about harming others.,0,0,0,0,0,0,0,1,0,0,0,0,Indicates intrusive thoughts of harm.
+I'm constantly seeking validation from others.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests a need for external validation.
+I feel hopeless and like life has no meaning.,1,0,0,1,0,0,0,0,0,0,0,0,Signs of hopelessness and existential distress.
+I've been isolating myself from everyone.,1,0,1,0,0,0,0,0,0,0,0,0,Suggests social isolation and withdrawal.
+I'm having trouble controlling my thoughts.,0,0,0,0,0,0,0,1,0,0,0,0,Indicates difficulty controlling intrusive thoughts.
+I'm overwhelmed by guilt and shame.,1,0,0,1,0,0,0,0,0,0,0,0,Indicates overwhelming guilt and shame.
+I'm constantly on edge and anxious about everything.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests chronic anxiety and hypervigilance.
+I have difficulty making decisions.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates decision-making difficulties.
+I experience physical symptoms due to stress.,0,0,1,0,0,0,0,0,0,0,0,0,Signs of stress-related physical symptoms.
+I feel disconnected from my body.,0,0,0,0,0,0,0,0,0,0,0,0,Signs of depersonalization or disconnection from one's body.
+I have trouble expressing my emotions.,1,0,0,1,0,0,0,0,0,0,0,0,Indicates difficulty in expressing emotions.
+I've been avoiding people and social situations.,1,0,1,0,0,0,0,0,0,0,0,0,Suggests social anxiety and avoidance behavior.
+I can't control my anger and have outbursts.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests difficulty with anger management.
+I'm constantly worried about my health.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests health-related anxiety.
+I feel like I'm not real or don't exist.,0,0,0,0,0,0,0,0,0,0,0,0,Signs of depersonalization or derealization.
+I experience flashbacks of a traumatic event.,0,0,1,0,0,0,0,0,0,0,1,0,Indicates traumatic flashbacks and potential PTSD symptoms.
+I'm always seeking reassurance from others.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests a need for constant reassurance.
+I feel like I have no control over my life.,1,0,1,1,0,0,0,0,0,0,0,0,Indicates a sense of powerlessness and lack of control.
+I can't concentrate and forget things easily.,0,1,0,0,0,0,0,0,0,0,0,0,Suggests difficulty with concentration and memory.
+I avoid eating or eat very little.,0,1,1,0,1,0,0,0,0,0,0,0,Indicates restricted eating and potential eating disorder.
+I experience mood swings and irritability.,1,0,0,0,0,0,0,0,0,1,0,0,Signs of mood swings and irritability.
+I can't handle criticism and get defensive.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests sensitivity to criticism and defensiveness.
+I have trouble falling asleep and staying asleep.,0,1,0,0,0,0,0,0,0,0,0,0,Indicates sleep difficulties and insomnia.
+I'm always fatigued and lack energy.,0,1,0,1,0,0,0,0,0,0,0,0,Signs of chronic fatigue and low energy.
+I experience vivid nightmares regularly.,0,1,1,0,0,0,0,0,0,0,1,0,Indicates frequent vivid nightmares and potential PTSD symptoms.
+I'm constantly comparing myself to others.,0,0,0,0,0,0,0,0,0,0,0,0,Signs of comparison and self-esteem issues.
+I have difficulty making eye contact.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates social anxiety or discomfort.
+I feel like I'm not in control of my actions.,1,0,0,1,0,0,0,0,0,0,0,0,Signs of feeling out of control of one's actions.
+I can't enjoy things I used to love.,0,0,0,1,0,0,0,0,0,0,0,0,Indicates loss of interest and potential depression.
+I obsessively worry about small details.,0,0,1,0,0,0,1,0,0,0,0,0,Signs of obsessive worry and potential OCD.
+I feel like I'm a burden to my family.,1,0,0,1,0,0,0,0,0,0,0,0,Signs of feeling like a burden to others.
+I have difficulty expressing my thoughts.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates difficulty in expressing thoughts and communication.
+I'm always on the edge and jumpy.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests heightened anxiety and jumpiness.
+I experience severe mood swings throughout the day.,1,0,0,0,0,0,0,0,0,1,0,0,Signs of severe mood swings and potential bipolar disorder.
+I can't control my impulses and do risky things.,1,0,1,0,0,0,0,0,0,0,0,0,Indicates impulsivity and risky behavior.
+I have a constant fear of being abandoned.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests fear of abandonment and potential borderline personality disorder.
+I feel like I'm constantly being judged by others.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests fear of judgment and social anxiety.
+I have difficulty falling asleep due to racing thoughts.,0,1,0,0,0,0,0,0,0,0,0,0,Indicates racing thoughts and difficulty falling asleep.
+I feel detached from my surroundings.,0,0,0,0,0,0,0,0,0,0,0,0,Signs of dissociation and feeling detached.
+I experience physical pain due to stress.,0,0,1,0,0,0,0,0,0,0,0,0,Signs of stress-related physical symptoms.
+I constantly doubt my decisions and choices.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests self-doubt and indecision.
+I have trouble maintaining relationships.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates difficulties in maintaining relationships.
+I feel like I'm always being watched.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates paranoid thoughts and surveillance concerns.
+I've been engaging in self-destructive behaviors.,1,0,1,0,0,0,0,0,0,0,0,0,Suggests self-destructive behaviors as a coping mechanism.
+I can't get over a past breakup.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests difficulty in coping with a past breakup.
+I feel like I'm constantly under pressure.,1,0,1,0,0,0,0,0,0,0,0,0,Indicates feeling constantly under pressure and stressed.
+I experience memory gaps and blackouts.,0,1,0,0,0,0,0,0,0,0,0,0,Suggests memory gaps and potential dissociation.
+I'm overwhelmed by responsibilities at work.,1,0,1,0,0,0,0,0,0,0,0,0,Indicates feeling overwhelmed by work-related responsibilities.
+I have difficulty feeling joy or happiness.,0,0,0,1,0,0,0,0,0,0,0,0,Indicates difficulty experiencing joy or happiness.
+I'm constantly worried about my appearance.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests body image concerns and potential social anxiety.
+I feel like I'm a failure in everything I do.,1,0,0,1,0,0,0,0,0,0,0,0,Signs of feeling like a failure and potential depression.
+I have trouble setting and achieving goals.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates difficulty in goal setting and achievement.
+I'm constantly tense and can't relax.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests chronic tension and inability to relax.
+I avoid social situations due to fear.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates social anxiety and avoidance.
+I have thoughts of harming myself.,0,0,0,0,0,0,0,1,0,0,0,0,Indicates thoughts of self-harm.
+I can't sleep and have racing thoughts at night.,0,1,0,0,0,0,0,0,0,0,0,0,Indicates insomnia and racing thoughts at night.
+I feel like I'm constantly under threat.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests a heightened sense of threat and danger.
+I feel like I'm stuck and can't move forward.,1,0,1,0,0,0,0,0,0,0,0,0,Indicates feeling stuck in life and unable to progress.
+I experience physical symptoms due to anxiety.,0,0,1,0,0,0,0,0,0,0,0,0,Signs of physical symptoms related to anxiety.
+I constantly compare myself to others on social media.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests social media comparison and potential low self-esteem.
+I'm unable to enjoy activities I used to love.,0,0,0,1,0,0,0,0,0,0,0,0,Indicates loss of interest in previously enjoyed activities.
+I have trouble falling asleep due to worry.,0,1,0,0,0,0,0,0,0,0,0,0,Indicates difficulty falling asleep due to worry.
+I feel like I'm constantly disappointing others.,1,0,0,1,0,0,0,0,0,0,0,0,Signs of feeling like a disappointment to others.
+I'm always on edge and can't relax.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests chronic anxiety and inability to relax.
+I feel like I'm a burden to my friends.,1,0,0,1,0,0,0,0,0,0,0,0,Signs of feeling like a burden to friends.
+I have trouble controlling my thoughts.,0,0,0,0,0,0,0,1,0,0,0,0,Indicates difficulty controlling intrusive thoughts.
+I feel hopeless about my future.,1,0,0,1,0,0,0,0,0,0,0,0,Indicates hopelessness about the future.
+I'm constantly stressed and overwhelmed.,1,0,1,0,0,0,0,0,0,0,0,0,Indicates constant stress and overwhelm.
+I can't stop thinking about past mistakes.,0,0,0,1,0,0,0,0,0,0,0,0,Indicates rumination on past mistakes.
+I'm overwhelmed by negative thoughts.,0,0,0,1,0,0,0,0,0,0,0,0,Indicates overwhelming negative thoughts and potential depression.
+I constantly feel judged by others.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests a fear of judgment and social anxiety.
+I feel disconnected from my emotions.,0,0,0,0,0,0,0,0,0,0,0,0,Signs of emotional disconnection.
+I'm experiencing hallucinations.,0,0,0,0,0,0,1,0,0,0,0,0,Indicates hallucinations.
+I'm constantly anxious about my health.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests health-related anxiety.
+I feel like I'm constantly being watched.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates paranoid thoughts and surveillance concerns.
+I've been engaging in self-harming behaviors.,0,0,0,0,0,0,0,0,1,0,0,0,Indicates self-harming behaviors.
+I'm always worried about my health.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests health-related anxiety.
+I'm overwhelmed by guilt and regret.,1,0,0,1,0,0,0,0,0,0,0,0,Indicates feelings of guilt and regret.
+I can't stop worrying about the future.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests persistent anxiety about the future.
+I'm always tense and on edge.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests chronic anxiety and tension.
+I have trouble falling asleep at night.,0,1,0,0,0,0,0,0,0,0,0,0,Indicates difficulty falling asleep.
+I'm constantly doubting my worth.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates self-doubt and potential low self-esteem.
+I feel like I'm constantly being judged.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests fear of judgment and social anxiety.
+I'm overwhelmed by responsibilities.,1,0,1,0,0,0,0,0,0,0,0,0,Indicates feeling overwhelmed by life's demands.
+I'm always tired and lack energy.,0,1,0,1,0,0,0,0,0,0,0,0,Signs of fatigue and low energy levels.
+I can't concentrate on anything.,0,1,0,0,0,0,0,0,0,0,0,0,Indicates difficulties with concentration.
+I feel like I'm worthless and unlovable.,1,0,0,1,0,0,0,0,0,0,0,0,Signs of low self-worth and potential depression.
+I've been using alcohol to cope with stress.,1,0,1,0,0,0,0,0,0,0,0,0,Indicates alcohol use as a coping mechanism.
+I'm constantly on edge and irritable.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests irritability and potential anxiety.
+I have trouble sleeping and wake up frequently.,0,1,0,0,0,0,0,0,0,0,0,0,Indicates sleep disturbances and frequent awakenings.
+I'm afraid to leave my house.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests agoraphobia and fear of leaving home.
+I'm overwhelmed by grief and loss.,1,0,0,1,0,0,0,0,0,0,0,0,Indicates feelings of grief and loss.
+I can't stop thinking about my past mistakes.,0,0,0,1,0,0,0,0,0,0,0,0,Indicates rumination on past mistakes.
+I have intrusive thoughts of harming myself.,0,0,0,0,0,0,0,1,0,0,0,0,Indicates intrusive thoughts of self-harm.
+I'm always seeking validation from others.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests a need for external validation.
+I feel hopeless and lost.,1,0,0,1,0,0,0,0,0,0,0,0,Indicates feelings of hopelessness and being lost.
+I feel like I'm never good enough.,0,0,0,0,0,0,0,0,0,0,0,0,Signs of low self-esteem and perfectionism.
+I'm struggling with drug addiction.,1,0,1,0,0,0,0,0,0,0,0,0,Indicates substance addiction as an issue.
+I have trouble making decisions.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates decision-making difficulties.
+I constantly feel overwhelmed by life.,1,0,1,0,0,0,0,0,0,0,0,0,Indicates feeling overwhelmed by life's challenges.
+I have difficulty expressing my emotions.,1,0,0,1,0,0,0,0,0,0,0,0,Indicates difficulty in expressing emotions.
+I've been avoiding social situations.,1,0,1,0,0,0,0,0,0,0,0,0,Suggests social anxiety and avoidance behavior.
+I can't control my anger and lash out.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests difficulty with anger management.
+I'm always worried about my future.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests persistent anxiety about the future.
+I have vivid flashbacks of a traumatic event.,0,0,1,0,0,0,0,0,0,0,1,0,Indicates traumatic flashbacks and potential PTSD symptoms.
+I'm worried that I'm losing my mind.,0,0,0,0,0,0,0,0,0,0,0,0,Suggests concerns about mental stability.
+I'm hearing voices that tell me to do harmful things.,0,0,0,0,0,0,0,1,0,0,0,0,Indicates auditory hallucinations with harmful commands.
+I'm always agitated and can't relax.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests chronic agitation and inability to relax.
+I'm experiencing physical symptoms due to stress.,1,0,1,0,0,0,0,0,0,0,0,0,Suggests physical manifestations of stress.
+I'm terrified of speaking in public.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates fear of public speaking
+I feel like I'm in a constant state of panic.,0,0,1,0,0,1,0,0,0,0,0,0,Suggests chronic panic and anxiety.
+I see things that others don't.,0,0,0,0,0,0,0,1,0,0,0,0,Indicates visual hallucinations.
+I'm always tense and on high alert.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests constant vigilance and tension.
+I can't stop overthinking everything.,0,0,0,0,0,0,0,1,0,0,0,0,Indicates overthinking and rumination.
+I'm overwhelmed by my responsibilities at work.,1,0,1,0,0,0,0,0,0,0,0,0,Indicates work-related stress and feeling overwhelmed.
+I avoid social situations at all costs.,0,0,1,0,0,0,0,0,0,0,0,0,Signs of social avoidance and anxiety.
+I can't forgive myself for past mistakes.,1,0,0,1,0,0,0,0,0,0,0,0,Indicates difficulty forgiving oneself and guilt.
+I'm constantly fatigued and have no motivation.,1,1,0,1,0,0,0,0,0,0,0,0,Signs of chronic fatigue and lack of motivation.
+I'm afraid of heights and can't even look down.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates acrophobia (fear of heights).
+I feel like I'm a failure in my career.,1,0,0,1,0,0,0,0,0,0,0,0,Indicates feelings of professional failure.
+I'm constantly apologizing for everything.,0,0,0,0,0,0,0,0,0,0,0,0,Signs of over-apologizing and excessive guilt.
+I'm overwhelmed by financial stress.,1,0,1,0,0,0,0,0,0,0,0,0,Indicates financial stress and feeling overwhelmed.
+I have recurring nightmares about the trauma.,0,0,1,0,0,0,0,0,0,0,1,0,Indicates trauma-related nightmares and potential PTSD.
+I'm obsessed with my weight and appearance.,0,0,1,0,0,0,0,0,0,0,0,0,Signs of body image obsession.
+I feel like I'm drowning in my responsibilities.,1,0,1,0,0,0,0,0,0,0,0,0,Indicates feeling overwhelmed by responsibilities.
+I have difficulty trusting even close friends.,0,0,1,0,0,0,0,0,0,0,0,0,Signs of trust issues and difficulty in forming close relationships.
+I can't escape my past trauma.,0,0,1,0,0,0,0,0,0,0,1,0,Suggests difficulty in coping with past trauma and potential PTSD.
+I'm constantly on edge and expect the worst.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests chronic anxiety and negative expectations.
+I feel like I'm a disappointment to my family.,1,0,0,1,0,0,0,0,0,0,0,0,Indicates feeling like a disappointment to loved ones.
+I'm seeing and hearing things that aren't there.,0,0,0,0,0,0,1,1,0,0,0,0,Indicates auditory and visual hallucinations.
+I'm always restless and can't sit still.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests restlessness and potential hyperactivity.
+I have trouble sleeping and experience nightmares.,0,1,0,0,0,0,0,0,0,0,1,0,Indicates sleep disturbances and trauma-related nightmares.
+I'm overwhelmed by guilt for past actions.,1,0,0,1,0,0,0,0,0,0,0,0,Indicates guilt and remorse for past actions.
+I can't shake the feeling that something bad will happen.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates chronic anxiety and fear of impending doom.
+I'm obsessed with cleanliness and hygiene.,0,0,0,0,0,0,1,0,0,0,0,0,Signs of obsession with cleanliness and hygiene.
+I have intrusive thoughts of self-harm.,0,0,0,0,0,0,0,1,0,0,0,0,Indicates intrusive thoughts of self-harm.
+I'm hearing voices that mock and taunt me.,0,0,0,0,0,0,0,1,0,0,0,0,Indicates auditory hallucinations with mocking content.
+I can't relax and feel like something bad will happen.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests constant anxiety and fear of negative events.
+I feel like I'm constantly letting people down.,1,0,0,1,0,0,0,0,0,0,0,0,Indicates a fear of disappointing others.
+I'm overwhelmed by sadness and can't find joy.,1,0,0,1,0,0,0,0,0,0,0,0,Signs of persistent sadness and depression.
+I have difficulty maintaining relationships.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates challenges in maintaining relationships.
+I'm consumed by intrusive thoughts of harm.,0,0,0,0,0,0,0,1,0,0,0,0,Indicates overwhelming intrusive thoughts of harm.
+I'm always anxious about my health.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests health anxiety and constant worry about one's health.
+I can't forgive myself for past mistakes and regrets.,1,0,0,1,0,0,0,0,0,0,0,0,Indicates persistent guilt and regret over past actions.
+I'm constantly fatigued and have no energy to do anything.,0,1,0,1,0,0,0,0,0,0,0,0,Signs of chronic fatigue
+I'm constantly seeking reassurance from others.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests a need for constant reassurance.
+I've been having trouble sleeping and feel restless at night.,0,1,0,0,0,0,0,0,0,0,0,0,Indicates insomnia and restlessness.
+I'm constantly worried about my health and have physical symptoms.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests health anxiety and physical symptoms.
+I feel disconnected from reality and like everything is a dream.,1,0,1,0,0,0,0,0,0,0,0,0,Signs of derealization and anxiety.
+I can't stop binge-eating and then I throw up afterward.,0,0,0,0,1,0,0,0,0,0,0,0,Indicates binge eating and purging behaviors.
+"I get sudden, intense mood swings and feel extremely impulsive.",1,0,0,0,0,0,0,0,0,1,0,0,Signs of mood swings and impulsivity.
+I'm haunted by memories of a traumatic event from my past.,0,0,1,0,0,0,0,0,0,0,1,0,Suggests past trauma and potential PTSD.
+"I can't concentrate, forget things, and feel overwhelmed.",0,1,0,0,0,0,0,0,0,0,0,0,Indicates attention difficulties and overwhelm.
+I have difficulty swallowing food and it feels like a lump in my throat.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests difficulty swallowing and potential anxiety.
+I hear voices that criticize and command me to do things.,0,0,0,0,0,0,1,0,0,0,0,0,Indicates auditory hallucinations and potential schizophrenia.
+I've been cutting myself to cope with emotional pain.,0,0,0,0,0,0,0,0,1,0,0,0,Indicates self-harm as a coping mechanism.
+"I feel elated and full of energy one moment, and then deeply sad the next.",1,0,0,0,0,0,0,0,0,1,0,0,Signs of mood swings and potential bipolar disorder.
+I've witnessed a violent event and it haunts me.,0,0,1,0,0,0,0,0,0,0,1,0,Suggests witnessing trauma and potential PTSD.
+I'm obsessed with checking if I locked the door or turned off the stove.,0,0,0,0,0,0,1,0,0,0,0,0,Indicates obsessive-compulsive tendencies.
+I can't remember important details about my life.,0,1,0,0,0,0,0,0,0,0,0,0,Suggests memory issues and potential cognitive difficulties.
+"My friends have distanced themselves, and I feel lonely.",0,0,1,0,0,0,0,0,0,0,0,0,Indicates loneliness and social withdrawal.
+I'm preoccupied with perceived flaws in my appearance.,0,0,1,0,0,0,0,0,0,0,0,0,Signs of body dysmorphic concerns.
+"I'm unable to trust anyone, even those closest to me.",0,0,1,0,0,0,0,0,0,0,0,0,Indicates trust issues and difficulty in relationships.
+I experience delusions of grandeur and believe I'm a world leader.,0,0,0,0,0,0,0,0,0,0,0,0,Signs of grandiose delusions.
+I'm overwhelmed by guilt and regret over past decisions.,1,0,0,1,0,0,0,0,0,0,0,0,Indicates feelings of guilt and regret.
+I have a constant sense of impending doom and panic.,0,0,1,0,0,1,0,0,0,0,0,0,Suggests constant panic and anxiety.
+I keep having disturbing thoughts about harming others.,0,0,0,0,0,0,0,1,0,0,0,0,Indicates intrusive thoughts of harm.
+I seek validation through social media likes and comments.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests seeking external validation.
+I feel like life is meaningless and struggle to find purpose.,1,0,0,1,0,0,0,0,0,0,0,0,Signs of existential distress and depression.
+"I've stopped talking to friends and family, withdrawing from everyone.",1,0,1,0,0,0,0,0,0,0,0,0,Suggests social isolation and withdrawal.
+I can't control violent thoughts that come into my mind.,0,0,0,0,0,0,0,1,0,0,0,0,Indicates difficulty controlling intrusive thoughts.
+I'm overwhelmed by shame and can't forgive myself for past mistakes.,1,0,0,1,0,0,0,0,0,0,0,0,Indicates overwhelming shame and self-blame.
+I feel constantly jittery and have trouble sitting still.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests restlessness and nervousness.
+I have a paralyzing fear of heights and can't go near tall buildings.,0,0,1,0,0,0,0,0,0,0,0,0,Signs of acrophobia (fear of heights).
+I think I'm being followed by government agents and can't trust anyone.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates paranoid thoughts and distrust.
+I engage in risky behaviors like reckless driving and substance abuse.,1,0,1,0,0,0,0,0,0,0,0,0,Suggests risk-taking behaviors and self-destructive tendencies.
+I have vivid flashbacks of a traumatic event from my childhood.,0,0,1,0,0,0,0,0,0,0,1,0,Indicates childhood trauma and potential PTSD.
+I feel like I'm constantly disappointing my loved ones.,1,0,0,1,0,0,0,0,0,0,0,0,Signs of low self-worth and guilt.
+I can't stop using drugs to numb my emotional pain.,1,0,1,1,0,0,0,0,0,0,1,0,Indicates substance abuse as a coping mechanism.
+I'm haunted by flashbacks of a near-death experience.,0,0,1,0,0,0,0,0,0,0,1,0,Suggests near-death trauma and potential PTSD.
+I'm consumed by thoughts of my own inadequacy.,0,0,0,0,0,0,0,0,0,0,0,0,Signs of self-doubt and perfectionism.
+I've become estranged from my family due to my addiction.,1,0,0,0,0,0,0,0,0,0,0,0,Indicates family estrangement due to addiction.
+I'm obsessed with cleanliness and ritualistic cleaning routines.,0,0,0,0,0,0,1,0,0,0,0,0,Signs of obsessive-compulsive disorder (OCD).
+I'm tormented by thoughts of harming my loved ones.,0,0,0,0,0,0,0,1,0,0,0,0,Indicates intrusive thoughts of harm towards others.
+I constantly seek approval and reassurance from my partner.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests dependency on external validation.
+I can't escape the feeling of impending disaster.,0,0,1,0,0,1,0,0,0,0,0,0,Indicates constant anxiety and panic.
+I can't sleep because I keep reliving past traumas.,0,1,1,0,0,0,0,0,0,0,1,0,Suggests insomnia and traumatic flashbacks.
+I'm obsessed with counting and repeating actions.,0,0,0,0,0,0,1,0,0,0,0,0,Signs of compulsive counting behaviors.
+I've been neglecting my hygiene and personal care.,1,1,0,1,0,0,0,0,0,0,0,0,Signs of severe depression and self-neglect.
+I experience extreme anger outbursts for no apparent reason.,0,0,0,0,0,0,0,0,0,0,0,0,Suggests difficulty with anger management.
+I've lost interest in everything and feel emotionally numb.,1,0,0,1,0,0,0,0,0,0,0,0,Signs of emotional numbness and depression.
+I'm constantly overwhelmed by intrusive thoughts.,0,0,0,0,0,0,0,1,0,0,0,0,Indicates difficulty controlling intrusive thoughts.
+I've been binge-watching TV for days and neglecting my work.,1,0,0,1,0,0,0,0,0,0,0,0,Suggests procrastination and depression.
+I feel like my thoughts are being broadcast to others.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates thought broadcasting and potential delusions.
+I'm constantly checking my body for signs of illness.,0,0,1,0,0,0,1,0,0,0,0,0,Suggests health anxiety and compulsive checking.
+I get panic attacks in crowded places.,0,0,1,0,0,1,0,0,0,0,0,0,Suggests agoraphobia and panic attacks in crowds.
+I've been emotionally detached and unable to connect with others.,1,0,1,0,0,0,0,0,0,0,0,0,Indicates emotional detachment and social isolation.
+I can't stop worrying about germs and cleanliness.,0,0,1,0,0,0,1,0,0,0,0,0,Signs of germophobia and obsessive cleaning.
+I feel like I'm losing my mind and reality is slipping away.,1,0,1,0,0,0,0,0,0,0,0,0,Suggests anxiety and derealization.
+I've been engaging in risky sexual behaviors.,1,0,0,0,0,0,0,0,0,0,0,0,Indicates risky sexual behavior as a coping mechanism.
+I have disturbing nightmares and trouble sleeping.,0,1,1,0,0,0,0,0,0,0,1,0,Suggests sleep disturbances and nightmares.
+I'm constantly comparing myself to others on social media.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates social comparison and self-esteem issues.
+I experience physical pain and fatigue for no apparent reason.,1,1,0,1,0,0,0,0,0,0,0,0,Signs of somatic symptoms and depression.
+I've been avoiding places that remind me of past traumas.,0,0,1,0,0,0,0,0,0,0,1,0,Suggests trauma-related avoidance.
+I feel like my body doesn't belong to me.,0,0,0,0,0,0,0,0,0,0,0,0,Signs of depersonalization.
+I've been hoarding useless items and can't let go.,0,0,0,0,0,0,1,0,0,0,0,0,Indicates hoarding tendencies and difficulty discarding items.
+I can't escape feelings of guilt and worthlessness.,1,0,0,1,0,0,0,0,0,0,0,0,Signs of guilt and worthlessness.
+I constantly feel on edge and have trouble relaxing.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests chronic anxiety and tension.
+I have an intense fear of needles and medical procedures.,0,0,1,0,0,0,0,0,0,0,0,0,Signs of needle phobia.
+I'm convinced that people are plotting against me.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates paranoid thoughts and distrust.
+I've been using alcohol as a way to escape my problems.,1,0,1,0,0,0,0,0,0,0,0,0,Indicates alcohol use as a coping mechanism.
+I experience visual hallucinations and see things that aren't there.,0,0,0,0,0,0,0,1,0,0,0,0,Indicates visual hallucinations.
+I've been spending excessively and getting into debt.,1,0,0,1,0,0,0,0,0,0,0,0,Signs of impulsive spending and depression.
+I'm constantly replaying past mistakes in my mind.,0,0,0,0,0,0,0,0,0,0,0,0,Suggests rumination and self-criticism.
+I'm losing touch with reality and hearing voices.,0,0,0,0,0,0,0,1,0,0,0,0,Indicates auditory hallucinations and potential psychosis.
+I've been isolating myself and avoiding social contact.,1,0,1,0,0,0,0,0,0,0,0,0,Suggests social isolation and withdrawal.
+I can't stop thinking about hurting myself.,0,0,0,0,0,0,0,1,0,0,0,0,Indicates thoughts of self-harm.
+I constantly feel like I'm being watched and monitored.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates paranoid thoughts and surveillance concerns.
+I've been engaging in dangerous thrill-seeking behaviors.,1,0,1,0,0,0,0,0,0,0,0,0,Suggests thrill-seeking behaviors as a coping mechanism.
+I have vivid flashbacks of a traumatic accident.,0,0,1,0,0,0,0,0,0,0,1,0,Indicates traumatic flashbacks and potential PTSD.
+I feel disconnected from my emotions and can't experience joy.,1,0,0,1,0,0,0,0,0,0,0,0,Signs of emotional detachment and depression.
+I've been avoiding mirrors due to body image concerns.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates body image dissatisfaction and avoidance.
+I'm constantly questioning my gender identity.,0,0,0,0,0,0,0,0,0,0,0,0,Signs of gender identity questioning.
+I'm overwhelmed by my responsibilities and can't keep up.,1,0,1,0,0,0,0,0,0,0,0,0,Indicates feeling overwhelmed by life's demands.
+I experience memory lapses and have trouble concentrating.,0,1,0,0,0,0,0,0,0,0,0,0,Suggests memory issues and difficulty concentrating.
+My relationships are strained due to my jealousy and distrust.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates jealousy and trust issues in relationships.
+I have difficulty trusting others and forming close bonds.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates trust issues and difficulty forming close relationships.
+I'm experiencing religious delusions and believe I'm a prophet.,0,0,0,0,0,0,0,0,0,0,0,0,Signs of religious delusions and grandiosity.
+I'm constantly haunted by memories of a traumatic incident.,0,0,1,0,0,0,0,0,0,0,1,0,Suggests traumatic memories and potential PTSD.
+I feel like I'm a burden to everyone around me.,1,0,0,1,0,0,0,0,0,0,0,0,Signs of self-perceived burden and depression.
+I can't stop using social media and feel addicted.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests social media addiction and dependency.
+I've been having trouble controlling my impulses.,1,0,0,0,0,0,0,0,0,1,0,0,Signs of impulse control issues and potential bipolar disorder.
+I'm overwhelmed by constant fear and anxiety.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests chronic fear and anxiety.
+I can't shake this constant feeling of worry and FOMO.,0,0,1,0,0,1,0,0,0,0,0,0,Indicates constant anxiety and fear of missing out.
+"I'm totally exhausted, can't sleep, and my brain feels fried.",0,1,0,0,0,0,0,0,0,0,0,0,Suggests sleep deprivation and cognitive fatigue.
+"I've got this constant knot in my stomach, and life feels like a mess.",0,0,1,0,0,0,0,0,0,0,0,0,Indicates persistent anxiety and life stress.
+"I'm in a funk, can't find joy in anything, and it's eating me up.",1,0,0,1,0,0,0,0,0,0,0,0,Signs of emotional emptiness and depression.
+I can't focus on anything for more than a hot minute.,0,1,0,0,0,0,0,0,0,0,0,0,Indicates attention difficulties and restlessness.
+"I'm having panic attacks like, all the time, it's freaking me out.",0,0,1,0,0,1,0,0,0,0,0,0,Suggests frequent panic attacks and anxiety.
+I hear these voices in my head that freak me out big time.,0,0,0,0,0,0,1,0,0,0,0,0,Indicates auditory hallucinations.
+"I'm always on edge, snapping at people left and right.",0,0,1,0,0,0,0,0,0,0,0,0,Suggests irritability and potential anxiety.
+"I can't stop checking stuff, it's like a bad habit, ya know.",0,0,0,0,0,0,1,0,0,0,0,0,Indicates obsessive-compulsive tendencies.
+"It's like I'm watching my life from the sidelines, so weird.",0,0,0,0,0,0,0,0,0,0,0,0,Signs of depersonalization or disconnection.
+I'm eating like a bottomless pit and then feeling guilty as hell.,0,1,0,0,1,0,0,0,0,0,0,0,Indicates binge eating and guilt.
+I'm scared to leave my crib 'cause panic might hit me.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests agoraphobia and fear of leaving home.
+"I'm always second-guessing myself and my abilities, it's a drag.",0,0,0,0,0,0,0,0,0,0,0,0,Signs of low self-esteem and self-doubt.
+"I've been cutting myself to deal, it's messed up, I know.",0,0,0,0,0,0,0,0,1,0,0,0,Indicates self-harm as a coping mechanism.
+"My mood's a rollercoaster, going from crazy highs to lows.",1,0,0,0,0,0,0,0,0,1,0,0,Signs of extreme mood swings
+"I can't even get out of bed or shower, life's a blur.",1,1,0,1,0,0,0,0,0,0,0,0,Indicates severe depression and difficulty with daily tasks.
+"I'm getting pissed off over the smallest things, it's annoying.",0,0,0,0,0,0,0,0,0,0,0,0,Suggests difficulty with anger management.
+"I'm always tired, no energy to do squat, it's like a drag.",0,1,0,1,0,0,0,0,0,0,0,0,Signs of fatigue
+I'm too scared to step outside without thinking the worst will happen.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates anxiety related to safety concerns.
+"I feel like I'm a burden, worthless, can't do no good.",1,0,0,1,0,0,0,0,0,0,0,0,Signs of low self-worth and potential depression.
+"I've been using stuff to numb my feelings, it's a mess.",1,0,1,1,0,0,0,0,0,0,1,0,Indicates substance abuse as a coping mechanism.
+"I can't shake off the bad memories, they haunt me.",0,0,1,0,0,0,0,0,0,0,1,0,Suggests symptoms of post-traumatic stress disorder (PTSD).
+"I'm always suspicious of people's motives, can't trust anyone.",0,0,1,0,0,0,0,0,0,0,0,0,Suggests paranoid tendencies and distrust.
+"I've got thoughts of ending it all, it's getting heavy.",0,0,0,0,0,0,0,0,0,0,0,1,Indicates suicidal thoughts and potential risk.
+"I can't stop hating on myself, it's like a broken record.",0,0,0,0,0,0,0,0,0,0,0,0,Signs of negative self-talk and self-criticism.
+"I'm confused about my gender identity, it's a real struggle.",0,0,0,0,0,0,0,0,0,0,0,0,Signs of gender identity confusion.
+"I'm drowning in responsibilities, can't keep my head above water.",1,0,1,0,0,0,0,0,0,0,0,0,Indicates feeling overwhelmed by life's demands.
+"I forget stuff all the time, can't remember jack.",0,1,0,0,0,0,0,0,0,0,0,0,Suggests memory issues and potential cognitive difficulties.
+"My relationships are falling apart, can't keep the peace.",0,0,1,0,0,0,0,0,0,0,0,0,Indicates difficulties in interpersonal relationships.
+"I'm obsessed with my looks, can't stop seeing flaws.",0,0,1,0,0,0,0,0,0,0,0,0,Signs of body dysmorphic concerns.
+"I struggle to trust people, feel like they'll let me down.",0,0,1,0,0,0,0,0,0,0,0,0,Indicates trust issues and difficulty in building trust with others.
+"I'm seeing things, like visions, it's freaking me out.",0,0,0,0,0,0,0,1,0,0,0,0,Indicates visual hallucinations.
+"I'm eaten up by guilt and regret, can't shake it off.",1,0,0,1,0,0,0,0,0,0,0,0,Indicates feelings of guilt and regret.
+"I'm always jittery, on edge, can't calm down.",0,0,1,0,0,0,0,0,0,0,0,0,Suggests anxiety-related nervousness and restlessness.
+"I'm petrified of specific things, can't even go near them.",0,0,1,0,0,0,0,0,0,0,0,0,Signs of specific phobias.
+"I feel like I'm being watched and followed, it's creepy.",0,0,1,0,0,0,0,0,0,0,0,0,Indicates paranoid thoughts and surveillance concerns.
+"I've been doing risky stuff, it's like I don't care anymore.",1,0,1,0,0,0,0,0,0,0,0,0,Suggests risky behaviors as a form of self-destructive coping.
+"I have vivid flashbacks of a traumatic event, can't escape it.",0,0,1,0,0,0,0,0,0,0,1,0,Indicates traumatic flashbacks and potential PTSD symptoms.
+"I feel like I'm never good enough for anyone, it's a pain.",0,0,0,0,0,0,0,0,0,0,0,0,Signs of low self-esteem and perfectionism.
+"I'm struggling with substance addiction, it's taking over.",1,0,1,0,0,0,0,0,0,0,0,0,Indicates substance addiction as an issue.
+"I'm a freak about cleanliness, can't stand a mess.",0,0,0,0,0,0,1,0,0,0,0,0,Signs of obsessive-compulsive disorder (OCD).
+"I can't stop thinking about hurting others, it's messed up.",0,0,0,0,0,0,0,1,0,0,0,0,Indicates intrusive thoughts of harm.
+"I'm always craving validation from others, it's exhausting.",0,0,1,0,0,0,0,0,0,0,0,0,Suggests a need for external validation.
+"I'm hopeless, life feels meaningless, can't find purpose.",1,0,0,1,0,0,0,0,0,0,0,0,Signs of hopelessness and existential distress.
+"I've been isolating myself from everyone, it's lonely.",1,0,1,0,0,0,0,0,0,0,0,0,Suggests social isolation and withdrawal.
+"I can't control my thoughts, they're all over the place.",0,0,0,0,0,0,0,1,0,0,0,0,Indicates difficulty controlling intrusive thoughts.
+"I'm buried in guilt and shame, it's unbearable.",1,0,0,1,0,0,0,0,0,0,0,0,Indicates overwhelming guilt and shame.
+"I'm always on edge, anxious about everything, it's exhausting.",0,0,1,0,0,0,0,0,0,0,0,0,Suggests chronic anxiety and hypervigilance.
+"I'm stuck with intense fears of certain things, it's scary.",0,0,1,0,0,0,0,0,0,0,0,0,Signs of specific phobias.
+"I feel like I'm being monitored, it's a paranoia trip.",0,0,1,0,0,0,0,0,0,0,0,0,Indicates paranoid thoughts and surveillance concerns.
+"I've been doing reckless stuff, it's like I'm daring life.",1,0,1,0,0,0,0,0,0,0,0,0,Suggests reckless behaviors as a form of self-destructive coping.
+"I have vivid flashbacks of a traumatic accident, it's haunting.",0,0,1,0,0,0,0,0,0,0,1,0,Indicates traumatic flashbacks and potential PTSD.
+"I feel detached from my emotions, can't feel joy anymore.",1,0,0,1,0,0,0,0,0,0,0,0,Signs of emotional detachment and depression.
+"I'm avoiding mirrors like the plague, hate what I see.",0,0,1,0,0,0,0,0,0,0,0,0,Indicates body image dissatisfaction and avoidance.
+"I'm always doubting myself and my abilities, it's exhausting.",0,0,0,0,0,0,0,0,0,0,0,0,Signs of self-doubt and self-criticism.
+"I'm overwhelmed by my responsibilities, it's a constant struggle.",1,0,1,0,0,0,0,0,0,0,0,0,Indicates feeling overwhelmed by life's demands.
+"I can't remember stuff, it's like my brain's on the fritz.",0,1,0,0,0,0,0,0,0,0,0,0,Suggests memory issues and difficulty concentrating.
+"My jealousy is wrecking my relationships, can't control it.",0,0,1,0,0,0,0,0,0,0,0,0,Indicates jealousy and trust issues in relationships.
+"I'm obsessed with my looks, can't stop nitpicking flaws.",0,0,1,0,0,0,0,0,0,0,0,0,Signs of body dysmorphic concerns.
+"I struggle to trust people, feel like they'll stab me in the back.",0,0,1,0,0,0,0,0,0,0,0,0,Indicates trust issues and difficulty forming close relationships.
+"I'm experiencing religious delusions, believe I'm a prophet.",0,0,0,0,0,0,0,0,0,0,0,0,Signs of religious delusions and grandiosity.
+"I'm haunted by memories of a traumatic incident, can't escape them.",0,0,1,0,0,0,0,0,0,0,1,0,Suggests traumatic memories and potential PTSD.
+"I feel like I'm a burden to everyone around me, it's heavy.",1,0,0,1,0,0,0,0,0,0,0,0,Signs of self-perceived burden and depression.
+"I can't stop scrolling social media, it's like an addiction.",0,0,1,0,0,0,0,0,0,0,0,0,Suggests social media addiction and dependency.
+"I can't control my impulses, it's like I'm on a rollercoaster.",1,0,0,0,0,0,0,0,0,1,0,0,Signs of impulse control issues and potential bipolar disorder.
+"I'm drowning in fear and anxiety, it's suffocating.",0,0,1,0,0,0,0,0,0,0,0,0,Suggests chronic fear and anxiety.
+"I'm constantly stressed AF, can't catch a break.",0,0,1,0,0,0,0,0,0,0,0,0,Indicates constant stress and anxiety.
+"I'm so damn tired, my sleep's a mess, and I'm feeling down.",0,1,0,1,0,0,0,0,0,0,0,0,Suggests sleep issues and depression.
+"I'm always on the edge, like everything's a big deal.",0,0,1,0,0,0,0,0,0,0,0,0,Suggests constant anxiety and hyperarousal.
+My life is like a never-ending storm of sadness.,1,0,0,1,0,0,0,0,0,0,0,0,Signs of persistent depression and emotional turmoil.
+"I can't concentrate on anything, my mind's all over the place.",0,1,0,0,0,0,0,0,0,0,0,0,Indicates attention difficulties and scatterbrain.
+"I get these panic attacks outta nowhere, it's freaky.",0,0,1,0,0,1,0,0,0,0,0,0,Suggests sudden panic attacks and anxiety.
+"I'm hearing stuff in my head, it's tripping me out.",0,0,0,0,0,0,1,0,0,0,0,0,Indicates auditory hallucinations.
+"I'm always irritable, like a ticking time bomb.",0,0,1,0,0,0,0,0,0,0,0,0,Suggests irritability and potential anxiety.
+"I can't stop my compulsions, it's a never-ending cycle.",0,0,0,0,0,0,1,0,0,0,0,0,Indicates obsessive-compulsive tendencies.
+"I feel like I'm observing my life from the sidelines, it's surreal.",0,0,0,0,0,0,0,0,0,0,0,0,Signs of depersonalization or disconnection.
+"I binge-eat like there's no tomorrow, then guilt hits.",0,1,0,0,1,0,0,0,0,0,0,0,Indicates binge eating and guilt.
+I'm scared to leave my place 'cause panic might strike.,0,0,1,0,0,0,0,0,0,0,0,0,Suggests agoraphobia and fear of leaving home.
+"I'm always questioning myself and my abilities, it's a struggle.",0,0,0,0,0,0,0,0,0,0,0,0,Signs of self-doubt and insecurity.
+"I've been resorting to self-harm to cope, it's bad.",0,0,0,0,0,0,0,0,1,0,0,0,Indicates self-harm as a coping mechanism.
+"My mood swings are wild, like a rollercoaster ride.",1,0,0,0,0,0,0,0,0,1,0,0,Signs of extreme mood swings
+"I can't even get out of bed or shower, it's a mess.",1,1,0,1,0,0,0,0,0,0,0,0,Indicates severe depression and difficulty with daily tasks.
+"I get angry over the tiniest things, it's annoying AF.",0,0,0,0,0,0,0,0,0,0,0,0,Suggests difficulty with anger management.
+"I'm always tired, no energy, life's a constant drag.",0,1,0,1,0,0,0,0,0,0,0,0,Signs of fatigue
+I can't leave my place without fearing the worst.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates anxiety related to safety concerns.
+"I feel worthless, like a burden, can't do anything right.",1,0,0,1,0,0,0,0,0,0,0,0,Signs of low self-worth and potential depression.
+"I can't shake off the traumatic memories, they haunt me.",0,0,1,0,0,0,0,0,0,0,1,0,Suggests symptoms of post-traumatic stress disorder (PTSD).
+"I've got thoughts of ending it all, it's overwhelming.",0,0,0,0,0,0,0,0,0,0,0,1,Indicates suicidal thoughts and potential risk.
+"I can't stop trashing myself, it's like a broken record.",0,0,0,0,0,0,0,0,0,0,0,0,Signs of negative self-talk and self-criticism.
+"I'm struggling with my gender identity, it's a maze.",0,0,0,0,0,0,0,0,0,0,0,0,Signs of gender identity questioning.
+"I'm overwhelmed by my responsibilities, can't keep up.",1,0,1,0,0,0,0,0,0,0,0,0,Indicates feeling overwhelmed by life's demands.
+"I keep forgetting stuff, it's like my brain's on vacation.",0,1,0,0,0,0,0,0,0,0,0,0,Suggests memory issues and difficulty concentrating.
+"My jealousy is tearing my relationships apart, it's a mess.",0,0,1,0,0,0,0,0,0,0,0,0,Indicates jealousy and trust issues in relationships.
+"I can't stop obsessing over my appearance, it's crazy.",0,0,1,0,0,0,0,0,0,0,0,0,Signs of body dysmorphic concerns.
+"I struggle to trust others, it's like a fortress.",0,0,1,0,0,0,0,0,0,0,0,0,Indicates trust issues and difficulty in building trust with others.
+"I'm experiencing religious delusions, think I'm a prophet.",0,0,0,0,0,0,0,0,0,0,0,0,Signs of religious delusions and grandiosity.
+"I can't control my impulses, it's like a rollercoaster.",1,0,0,0,0,0,0,0,0,1,0,0,Signs of impulse control issues and potential bipolar disorder.
+"I'm always feeling paranoid, like I'm being watched.",0,0,1,0,0,0,0,0,0,0,0,0,Indicates paranoid thoughts and surveillance concerns.
+"I've been doing some reckless stuff, it's like I'm daring life.",1,0,1,0,0,0,0,0,0,0,0,0,Suggests reckless behaviors as a form of self-destructive coping.
+"I have vivid flashbacks of a traumatic incident, it's haunting.",0,0,1,0,0,0,0,0,0,0,1,0,Indicates traumatic flashbacks and potential PTSD.
+"I'm constantly stressing over the little things, it's driving me nuts.",0,0,1,0,0,1,0,0,0,0,0,0,Indicates chronic anxiety and stress.
+"I'm so drained, can't catch a wink of sleep, and my head's a mess.",0,1,0,0,0,0,0,0,0,0,0,0,Suggests sleep deprivation and cognitive exhaustion.
+"I'm always feeling on edge, like something bad's about to happen.",0,0,1,0,0,0,0,0,0,0,0,0,Suggests constant anxiety and hypervigilance.
+"I'm stuck in this dark pit, can't find joy in anything anymore.",1,0,0,1,0,0,0,0,0,0,0,0,Signs of emotional emptiness and depression.
+I can't focus on anything for more than a hot second.,0,1,0,0,0,0,0,0,0,0,0,0,Indicates attention difficulties and restlessness.
+"I'm having panic attacks left and right, it's freaking me out.",0,0,1,0,0,1,0,0,0,0,0,0,Suggests frequent panic attacks and anxiety.
+I hear these voices in my head that seriously freak me out.,0,0,0,0,0,0,1,0,0,0,0,0,Indicates auditory hallucinations.
+"I'm always irritable, snapping at folks for no reason.",0,0,1,0,0,0,0,0,0,0,0,0,Suggests irritability and potential anxiety.
+"I can't stop counting things and checking stuff, it's bizarre.",0,0,0,0,0,0,1,0,0,0,0,0,Indicates obsessive-compulsive tendencies.
+"It feels like I'm watching my life from the sidelines, strange.",0,0,0,0,0,0,0,0,0,0,0,0,Signs of depersonalization or disconnection.
+"I'm eating non-stop, then feeling guilty as hell about it.",0,1,0,0,1,0,0,0,0,0,0,0,Indicates binge eating and guilt.
+"I'm terrified to leave the house, fear just paralyzes me.",0,0,1,0,0,0,0,0,0,0,0,0,Suggests agoraphobia and fear of leaving home.
+"I've resorted to self-harm to cope, it's messed up, I know.",0,0,0,0,0,0,0,0,1,0,0,0,Indicates self-harm as a coping mechanism.
+"My mood's a rollercoaster, swinging from highs to lows.",1,0,0,0,0,0,0,0,0,1,0,0,Signs of extreme mood swings
+"I'm getting angry over the tiniest things, it's frustrating.",0,0,0,0,0,0,0,0,0,0,0,0,Suggests difficulty with anger management.
+"I'm always tired, no energy for anything, it's a drag.",0,1,0,1,0,0,0,0,0,0,0,0,Signs of fatigue
+I'm too scared to go out without thinking the worst will happen.,0,0,1,0,0,0,0,0,0,0,0,0,Indicates anxiety related to safety concerns.
+"I feel like a burden to everyone, utterly worthless.",1,0,0,1,0,0,0,0,0,0,0,0,Signs of low self-worth and potential depression.
+"I'm obsessed with my looks, flaws drive me insane.",0,0,1,0,0,0,0,0,0,0,0,0,Signs of body dysmorphic concerns.
+"I find it impossible to trust others, they always let me down.",0,0,1,0,0,0,0,0,0,0,0,0,Indicates trust issues and difficulty in building trust with others.
+"I'm experiencing religious delusions, convinced I'm a prophet.",0,0,0,0,0,0,0,0,0,0,0,0,Signs of religious delusions or irrational beliefs.
+"I'm tormented by memories of a traumatic incident, can't escape them.",0,0,1,0,0,0,0,0,0,0,1,0,Indicates traumatic flashbacks and potential PTSD symptoms.
+"I feel like a burden to everyone around me, it's heavy.",1,0,0,1,0,0,0,0,0,0,0,0,Signs of self-perceived burden and depression.
+"I can't stop scrolling through social media, it's like an addiction.",0,0,1,0,0,0,0,0,0,0,0,0,Suggests social media addiction and dependency.
